@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # lucky
 gdy666/lucky:latest
+# 海豚调度单机版
+apache/dolphinscheduler-standalone-server:latest
