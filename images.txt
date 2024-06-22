@@ -10,3 +10,5 @@ gdy666/lucky:latest
 apache/dolphinscheduler-standalone-server:latest
 # 塔科夫服务端3.8.3自带fika MOD
 drscorpi0/spt_aki_fika:3.8.3
+# n2n-edge
+forgaoqiang/n2n_edge
