@@ -14,3 +14,5 @@ drscorpi0/spt_aki_fika:3.8.3
 forgaoqiang/n2n_edge
 # runlike
 assaflavie/runlike
+
+dreamacro/clash:v1.18.0
